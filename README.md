@@ -4,7 +4,7 @@
 </h1>
 </p>
 
-Iam Learning the "The Complete Flutter Development Bootcamp with Dart" course on Udemy.
+I am learning "The Complete Flutter Development Bootcamp with Dart" course on Udemy.
 This course aligns perfectly with my goal of mastering Mobile Development. Additionally, I worked on personal projects.
 
 
