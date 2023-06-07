@@ -20,5 +20,3 @@ The prestigious app icon signifies the rare exclusivity of "I Am Rich." Displaye
 
 ## Fun Fact
 Originally released in 2008, "I Am Rich" gained notoriety for its audacious price tag of $999.99. Priced well above the average app at the time, it quickly became a symbol of affluence and exclusivity. Less than 24 hours after its launch, the app was pulled from the App Store due to its controversial nature.
-
-Only eight copies of "I Am Rich" were sold during its short-lived availability, making it an exceedingly rare gem in the digital world. As one of the fortunate few who possess this application, you can revel in your exquisite taste and remarkable ability to recognize true value 😉
