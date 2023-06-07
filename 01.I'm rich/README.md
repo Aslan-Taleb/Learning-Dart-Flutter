@@ -5,8 +5,6 @@ the ultimate status symbol app! This exclusive mobile application is designed to
 
 ![app](theapp.png)
 
-## Features
-
 ## Elegant Design
 
 "I Am Rich" boasts a stunning and sophisticated design that exudes elegance. The app's user interface is carefully crafted with a focus on simplicity and refinement. Immerse yourself in a visually pleasing experience that mirrors your refined taste.
