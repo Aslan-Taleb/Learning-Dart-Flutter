@@ -1,6 +1,6 @@
 <p align="center">
 <img width="" src="https://i.pinimg.com/originals/89/8f/bd/898fbd8a5d79c90be4732525a122a96f.gif" align="center" alt="gif" />
-<h1 align="center">Learning Dart And Flutter 🐍 
+<h1 align="center">Learning Dart And Flutter 📱
 </h1>
 </p>
 
