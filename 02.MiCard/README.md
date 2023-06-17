@@ -8,17 +8,19 @@ This is a Flutter application that displays personal information using various U
 
 To run this application, follow these steps:
 
-Ensure you have Flutter installed on your machine. For instructions on installing Flutter, refer to the official Flutter documentation.
+1. Ensure you have Flutter installed on your machine. For instructions on installing Flutter, refer to the official Flutter documentation.
 
-Clone the repository or download the source code files.
+2. Clone the repository or download the source code files.
 
-Open the project in your preferred IDE or editor.
+3. Open the project in your preferred IDE or editor.
 
-Connect a device or start an emulator.
+4. Connect a device or start an emulator.
 
-Run the following command in the terminal to install the required dependencies:
+5. Run the following command in the terminal to install the required dependencies:
 
-flutter pub get
+   ```bash
+   flutter pub get
+
 
 Finally, run the app using the following command:
 
