@@ -18,7 +18,7 @@ To run this application, follow these steps:
 
 5. Run the following command in the terminal to install the required dependencies:
 
-```bash
+  ```bash
 flutter pub get
 
 
