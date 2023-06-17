@@ -18,13 +18,14 @@ To run this application, follow these steps:
 
 5. Run the following command in the terminal to install the required dependencies:
 
-```bash
+   ```bash
    flutter pub get
 
 
-Finally, run the app using the following command:
 
-flutter run
+Finally, run the app using the following command:
+   ```bash
+   flutter run
 
 ## Application Structure : 
 
