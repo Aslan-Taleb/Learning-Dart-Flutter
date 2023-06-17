@@ -20,10 +20,11 @@ To run this application, follow these steps:
 
    ```bash
    flutter pub get
+   ```
 
 Finally, run the app using the following command:
    
-      ```bash
+   ```bash
    flutter run
    
 ## Application Structure : 
