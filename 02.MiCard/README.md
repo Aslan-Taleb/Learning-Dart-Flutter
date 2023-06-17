@@ -22,10 +22,10 @@ To run this application, follow these steps:
    flutter pub get
 
 Finally, run the app using the following command:
+
    ```bash
    flutter run
-
-
+   
 ## Application Structure : 
 
 The main.dart file contains the entry point of the application. The MyApp class is a stateless widget that serves as the root widget for the app. It creates a MaterialApp widget, which provides a convenient way to set up the overall theme and navigation for the app.
