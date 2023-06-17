@@ -22,8 +22,9 @@ To run this application, follow these steps:
    flutter pub get
 
 Finally, run the app using the following command:
+
     ```bash
-   flutter run
+   flutter pub get
    
 ## Application Structure : 
 
