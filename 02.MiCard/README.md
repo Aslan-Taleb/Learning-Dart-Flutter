@@ -1,4 +1,4 @@
-# micard
+# MiCard
 
 This is a Flutter application that displays personal information using various UI elements. The app showcases a profile picture, name, profession, phone number, and email address.
 
