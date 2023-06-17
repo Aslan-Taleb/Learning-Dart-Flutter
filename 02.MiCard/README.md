@@ -26,6 +26,7 @@ Finally, run the app using the following command:
    
    ```bash
    flutter run
+   ```
    
 ## Application Structure : 
 
